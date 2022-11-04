@@ -1,0 +1,269 @@
+.landingcard{
+    position: absolute;
+    width: 500px;
+    height: 650px;
+    left: 120px;
+    top: 182px;
+    
+    background: #EBF2FA;
+    border-radius: 20px;
+
+
+
+}
+body{
+    background-color: #064789;
+}
+
+h1{
+font-family: 'Titillium Web';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+}
+
+h6{
+position: relative;
+width: 103px;
+height: 17px;
+left: 360px;
+top: 269px;
+
+font-family: 'Titillium Web';
+font-style: normal;
+font-weight: 700;
+font-size: 11px;
+line-height: 17px;
+
+
+text-align: center;
+text-decoration-line: underline;
+
+color: #000000;
+}
+
+p{
+    font-family: 'Titillium Web';
+    font-size: 14px;
+}
+.intro{
+    position: relative;
+    width: 440px;
+    height: 40px;
+    left: 35px;
+    top: 20px;
+    
+    font-family:'Titillium Web';
+    font-style: normal;
+    
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    align-content: center;
+    
+    
+
+}
+
+.introtext{
+    position: relative;
+    width: 440px;
+    height: 40px;
+    left: 40px;
+    top: 32px;
+    font-family: 'Titillium Web';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    align-content: center;
+    
+    color: #427AA1;
+
+}
+.signinbtns{
+
+
+
+
+
+font-family: 'Titillium Web';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+align-content: center;
+
+color: #427AA1;
+}
+.btnarrange{
+
+position: relative;
+width: 340px;
+height: 40px;
+left: 80px;
+top: 80px;
+
+}
+.btn{
+
+border-radius: 15px;
+border: 1px solid rgba(0, 0, 0, 0.5);
+width: 340px;
+
+font-family: 'Titillium Web';
+font-style: normal;
+font-weight: 100;
+font-size: 15px;
+line-height: 30px;
+text-align: center;
+background-color: #EBF2FA;
+color: #064789;
+
+}
+.btn2{
+position: relative;  
+top:15px ;  
+
+border-radius: 15px;
+border: 1px solid rgba(0, 0, 0, 0.5);
+width: 340px;
+    
+font-family: 'Titillium Web';
+font-style: normal;
+font-weight: 100;
+font-size: 15px;
+line-height: 30px;
+text-align: center;
+background-color: #EBF2FA;
+color: #064789;
+
+}
+
+.inpttext{
+box-sizing: border-box;
+position: relative;
+width: 340px;
+height: 40px;
+left: 80px;
+top: 124px;
+
+
+}
+.email{
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    border-radius: 15px;
+    width: 340px;
+    height: 40px;
+
+}
+.password{
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    border-radius: 15px;
+    width: 340px;
+    height: 40px;
+
+}
+
+h3{
+width: 43px;
+height: 15px;
+left: 202px;
+top: 570px;
+
+font-family: 'Titillium Web';
+font-style: normal;
+font-weight: 100;
+font-size: 10px;
+line-height: 15px;
+text-align: center;
+
+color: #000000;
+
+
+    }
+
+.login{
+position: relative;
+width: 340px;
+height: 40px;
+left: 80px;
+top: 244px;
+border-radius: 15px;
+border: 1px solid rgba(0, 0, 0, 0.5);
+
+font-family: 'Titillium Web';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+text-align: center;
+
+color: #EBF2FA;
+background-color: #064789;
+
+
+}
+.account{
+    position: relative;
+    width: 340px;
+    height: 40px;
+    left: 80px;
+    top: 268px;
+    border-radius: 15px;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+
+    
+    font-family: 'Titillium Web';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    
+    color: #064789;
+    background-color: #EBF2FA;
+    }
+.splashtext{
+position: relative;
+width: 657px;
+height: 144px;
+left: 720px;
+top: 294px;
+
+font-family: 'Titan One';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #EBF2FA;
+
+
+} 
+h5{
+position: relative;
+width: 616px;
+height: 90px;
+left: 741px;
+top: 276px;
+
+font-family: 'Gemunu Libre';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 45px;
+
+
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #EBF2FA;
+
+
+}   
